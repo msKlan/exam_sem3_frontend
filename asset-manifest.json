@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/exam_sem3_frontend/static/css/main.791c8edd.chunk.css",
+    "main.js": "/exam_sem3_frontend/static/js/main.14ba93b5.chunk.js",
+    "main.js.map": "/exam_sem3_frontend/static/js/main.14ba93b5.chunk.js.map",
+    "runtime-main.js": "/exam_sem3_frontend/static/js/runtime-main.95421a90.js",
+    "runtime-main.js.map": "/exam_sem3_frontend/static/js/runtime-main.95421a90.js.map",
+    "static/js/2.5db37445.chunk.js": "/exam_sem3_frontend/static/js/2.5db37445.chunk.js",
+    "static/js/2.5db37445.chunk.js.map": "/exam_sem3_frontend/static/js/2.5db37445.chunk.js.map",
+    "index.html": "/exam_sem3_frontend/index.html",
+    "precache-manifest.cb44961155512695f1e133c08039ee36.js": "/exam_sem3_frontend/precache-manifest.cb44961155512695f1e133c08039ee36.js",
+    "service-worker.js": "/exam_sem3_frontend/service-worker.js",
+    "static/css/main.791c8edd.chunk.css.map": "/exam_sem3_frontend/static/css/main.791c8edd.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95421a90.js",
+    "static/js/2.5db37445.chunk.js",
+    "static/css/main.791c8edd.chunk.css",
+    "static/js/main.14ba93b5.chunk.js"
+  ]
+}
